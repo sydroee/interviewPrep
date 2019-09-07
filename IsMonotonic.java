@@ -8,7 +8,7 @@
 * Return true if and only if the given array A is monotonic.
 */
 
-class isMonotonic {
+class IsMonotonic {
     public static boolean isMonotonic(int[] A) {
         //check the array size, if empty or of size one it is monotonic
         if(A.length == 1 || A.length == 0)
