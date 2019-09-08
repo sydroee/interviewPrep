@@ -38,7 +38,7 @@ class SwapNodesinPairs
 
     }
 }
-
+//just a node...
 public class ListNode
 {
       int val;
