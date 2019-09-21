@@ -19,7 +19,7 @@ class CompressString
             if(s1.charAt(i) != s1.charAt(i-1))
             {
                 compressed.append(count);
-                compressed.append(s1.charAt(i+count-1))
+                compressed.append(s1.charAt(i))
                 count = 1;
             }
             else
