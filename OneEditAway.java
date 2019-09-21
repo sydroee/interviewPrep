@@ -1,6 +1,10 @@
-//Check to see if s1 is one edit away from s2.
-//You can chose to remove a value, replace a value or add a value to s1 to make
-//it equal to s2
+/*
+* Check to see if s1 is one edit away from s2.
+* You can chose to remove a value, replace a value or add a value to s1 to make
+* it equal to s2
+* CTCI 1.5
+*/
+
 class OneEditAway
 {
     public boolean oneEditAway(String s1, String s2)
